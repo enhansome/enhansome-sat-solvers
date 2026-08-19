@@ -52,7 +52,7 @@
             "last_commit": "2025-10-16T17:24:57Z",
             "owner": "arminbiere",
             "repo": "kissat",
-            "stars": 661
+            "stars": 662
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-07T09:09:53Z",
             "owner": "arminbiere",
             "repo": "cadical",
-            "stars": 586
+            "stars": 587
           }
         },
         {
@@ -269,10 +269,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-18T03:55:04Z",
+            "last_commit": "2026-08-19T03:26:18Z",
             "owner": "Z3Prover",
             "repo": "z3",
-            "stars": 12564
+            "stars": 12568
           }
         },
         {
@@ -283,7 +283,7 @@
           "repo_info": {
             "archived": false,
             "language": "SMT",
-            "last_commit": "2026-08-17T21:18:38Z",
+            "last_commit": "2026-08-18T17:46:10Z",
             "owner": "bitwuzla",
             "repo": "bitwuzla",
             "stars": 376
@@ -303,10 +303,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T19:56:34Z",
+            "last_commit": "2026-08-18T19:16:35Z",
             "owner": "ERGO-Code",
             "repo": "HiGHS",
-            "stars": 1786
+            "stars": 1788
           }
         },
         {
@@ -367,7 +367,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T04:00:27.958Z",
+    "last_updated": "2026-08-19T04:01:17.260Z",
     "original_repository": "urbanophile/awesome-sat-solvers",
     "original_repository_sha": "95a86112fb21b7cec8bcdac47b1dc546ba7c8bdd",
     "enhanced_repository": "enhansome/enhansome-sat-solvers",
