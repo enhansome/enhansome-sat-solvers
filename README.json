@@ -1,374 +1,407 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Introductions and Tutorials"
-    },
-    {
       "description": "SAT has a nice tradition of making solver public and open source. As Yogi Berra said \"You can observe a lot by watchin\".",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MiniSAT(2003) - Famous for being good, short (2k LOC), and introducing incremental SAT, MiniSAT is still widely used. Clear and worth reading espcially version 1.12! code",
+              "description": "paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 299343,
+                "language": "C++",
+                "last_commit": "2024-04-28T23:57:29Z",
+                "owner": "niklasso",
+                "repo": "minisat",
+                "stars": 1188
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CryptoMiniSAT (2009) - Uses XOR primitive - code",
+              "description": "paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3709502,
+                "language": "C++",
+                "last_commit": "2026-07-21T16:01:00Z",
+                "owner": "msoos",
+                "repo": "cryptominisat",
+                "stars": 939
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kissat (2020) - - code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 267257286,
+                "language": "C",
+                "last_commit": "2025-10-16T17:24:57Z",
+                "owner": "arminbiere",
+                "repo": "kissat",
+                "stars": 662
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CaDiCaL (2019) - paper",
+              "description": "code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65902420,
+                "language": "C++",
+                "last_commit": "2026-08-07T09:09:53Z",
+                "owner": "arminbiere",
+                "repo": "cadical",
+                "stars": 587
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Glucose (2009) - Introduced different heuristics for SAT and UNSAT - code",
+              "description": "paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 638137650,
+                "language": "C++",
+                "last_commit": "2025-12-30T08:42:13Z",
+                "owner": "audemard",
+                "repo": "glucose",
+                "stars": 150
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SBVA-CaDiCaL (2023) - overall winner in SAT competition. Develops heuristic for structured bounded variable addition (SBVA), a preprocessing technique which automatically reencodes formulas by introducing new variables to eliminating clauses which frequently results in reducing formula size. code",
+              "description": "paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 634705438,
+                "language": "C++",
+                "last_commit": "2024-04-26T02:24:35Z",
+                "owner": "hgarrereyn",
+                "repo": "SBVA",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GRASP (1996) - GRASP pioneered the modern approach of CDCL. - code",
+              "description": "paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45273920,
+                "language": "C++",
+                "last_commit": "2015-10-30T20:10:07Z",
+                "owner": "satmuseum",
+                "repo": "grasp",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "Three very important whose source code is informative to read are GRASP, Chaff and MiniSAT. These are important or (historical) state of the art solvers.",
+          "node_type": "group",
+          "title": "Important Solvers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gopher",
+              "description": "solver written in Go",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104997433,
+                "language": "Go",
+                "last_commit": "2025-07-07T12:09:29Z",
+                "owner": "crillab",
+                "repo": "gophersat",
+                "stars": 388
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "varisat",
+              "description": "solver written in Rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 168965030,
+                "language": "Rust",
+                "last_commit": "2022-11-02T21:46:18Z",
+                "owner": "jix",
+                "repo": "varisat",
+                "stars": 289
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Satch",
+              "description": "expository solver by Armin Biere",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 334146778,
+                "language": "C",
+                "last_commit": "2026-02-10T13:54:18Z",
+                "owner": "arminbiere",
+                "repo": "satch",
+                "stars": 125
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MergeSAT (2021) - code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 126389427,
+                "language": "C++",
+                "last_commit": "2023-11-20T19:08:17Z",
+                "owner": "conp-solutions",
+                "repo": "mergesat",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Slime (2021) - code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 181300479,
+                "language": "JavaScript",
+                "last_commit": "2021-07-12T14:24:00Z",
+                "owner": "maxtuno",
+                "repo": "slime-sat-solver",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other solvers of interest:"
+        }
+      ],
       "title": "SAT Solvers"
     },
     {
-      "description": "Three very important whose source code is informative to read are GRASP, Chaff and MiniSAT. These are important or (historical) state of the art solvers.",
+      "description": "There many theoretical problems which are closely related to SAT. Solvers for the following adjacent problems are worth knowing about:",
       "items": [
         {
-          "node_type": "item",
-          "title": "MiniSAT(2003) - Famous for being good, short (2k LOC), and introducing incremental SAT, MiniSAT is still widely used. Clear and worth reading espcially version 1.12! code",
-          "description": "paper",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-04-28T23:57:29Z",
-            "owner": "niklasso",
-            "repo": "minisat",
-            "stars": 1188
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Loandra",
+              "description": "(MaxSAT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198180294,
+                "language": "C++",
+                "last_commit": "2026-04-23T09:03:43Z",
+                "owner": "jezberg",
+                "repo": "loandra",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MUSer",
+              "description": "(MUSer)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 207738499,
+                "language": "C++",
+                "last_commit": "2019-09-11T06:24:20Z",
+                "owner": "meelgroup",
+                "repo": "muser",
+                "stars": 3
+              }
+            }
+          ],
+          "description": "MaxSAT is the problem of the finding the maximum number of clauses which can be satisfied for a particular formula. MaxSAT can be seen as an optimisation version of the SAT problem. Minimally Unsatisfiable Subformulas (MUSs) are like duals MaxSAT, they ask for the minimal set of assignments which will show a formula is unsatisfiable. - wiki\nSolvers include:",
+          "node_type": "group",
+          "title": "MaxSAT Solvers"
         },
         {
-          "node_type": "item",
-          "title": "CryptoMiniSAT (2009) - Uses XOR primitive - code",
-          "description": "paper",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-07-21T16:01:00Z",
-            "owner": "msoos",
-            "repo": "cryptominisat",
-            "stars": 939
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ApproxMCv6",
+              "description": "(by creators of CryptoMiniSAT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157052469,
+                "language": "C++",
+                "last_commit": "2026-07-21T08:52:31Z",
+                "owner": "meelgroup",
+                "repo": "approxmc",
+                "stars": 90
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SharpSAT",
+              "description": "(sota circa 2011)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5542089,
+                "language": "C++",
+                "last_commit": "2022-08-28T18:13:04Z",
+                "owner": "marcthurley",
+                "repo": "sharpSAT",
+                "stars": 64
+              }
+            }
+          ],
+          "description": "The #SAT is the problem of counting all the assignments which satisfy a Boolean formula. - wiki\nSolvers include:",
+          "node_type": "group",
+          "title": "SharpSAT Solvers"
         },
         {
-          "node_type": "item",
-          "title": "Kissat (2020) - - code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-10-16T17:24:57Z",
-            "owner": "arminbiere",
-            "repo": "kissat",
-            "stars": 662
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Z3",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32944298,
+                "language": "C++",
+                "last_commit": "2026-08-19T03:26:18Z",
+                "owner": "Z3Prover",
+                "repo": "z3",
+                "stars": 12567
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bitwuzla",
+              "description": "(successor to Boolector)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 296765908,
+                "language": "SMT",
+                "last_commit": "2026-08-18T17:46:10Z",
+                "owner": "bitwuzla",
+                "repo": "bitwuzla",
+                "stars": 376
+              }
+            }
+          ],
+          "description": "Satisfiable Modulo Theory (SMT) solvers are generally built on top of SAT solvers and make use of expressive theories such as bit-vectors and or uninterpreted functions. SMT solvers generally use an extension of the DPLL algorithm called DPLL(T) (T is for Theory) | wiki\nSolvers include:",
+          "node_type": "group",
+          "title": "SMT Solvers"
         },
         {
-          "node_type": "item",
-          "title": "CaDiCaL (2019) - paper",
-          "description": "code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-07T09:09:53Z",
-            "owner": "arminbiere",
-            "repo": "cadical",
-            "stars": 587
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Glucose (2009) - Introduced different heuristics for SAT and UNSAT - code",
-          "description": "paper",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-12-30T08:42:13Z",
-            "owner": "audemard",
-            "repo": "glucose",
-            "stars": 150
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SBVA-CaDiCaL (2023) - overall winner in SAT competition. Develops heuristic for structured bounded variable addition (SBVA), a preprocessing technique which automatically reencodes formulas by introducing new variables to eliminating clauses which frequently results in reducing formula size. code",
-          "description": "paper",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-04-26T02:24:35Z",
-            "owner": "hgarrereyn",
-            "repo": "SBVA",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GRASP (1996) - GRASP pioneered the modern approach of CDCL. - code",
-          "description": "paper",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2015-10-30T20:10:07Z",
-            "owner": "satmuseum",
-            "repo": "grasp",
-            "stars": 0
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HiGHS project",
+              "description": "code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 126994758,
+                "language": "C++",
+                "last_commit": "2026-08-19T11:57:09Z",
+                "owner": "ERGO-Code",
+                "repo": "HiGHS",
+                "stars": 1791
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CBC code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 173509563,
+                "language": "C++",
+                "last_commit": "2026-08-17T19:18:02Z",
+                "owner": "coin-or",
+                "repo": "Cbc",
+                "stars": 1007
+              }
+            }
+          ],
+          "description": "0-1 integer programming was the first in Karp's list of 21 NP-complete problems which was reducible to SAT. Pseudo-boolean constraints are another term for 0-1 integer linear programming (ILP). While ILP solvers also use exhaustive search (e.g. branch and bound) they make heavy use of relaxations of the problem. - wiki | IP solvers from the SAT perspective | Academic survey of Branch-and-bound algorithms\nSolvers include:",
+          "node_type": "group",
+          "title": "IP Solvers"
         }
       ],
-      "title": "Important Solvers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "gopher",
-          "description": "solver written in Go",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-07-07T12:09:29Z",
-            "owner": "crillab",
-            "repo": "gophersat",
-            "stars": 388
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "varisat",
-          "description": "solver written in Rust",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2022-11-02T21:46:18Z",
-            "owner": "jix",
-            "repo": "varisat",
-            "stars": 289
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Satch",
-          "description": "expository solver by Armin Biere",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-02-10T13:54:18Z",
-            "owner": "arminbiere",
-            "repo": "satch",
-            "stars": 125
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MergeSAT (2021) - code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-11-20T19:08:17Z",
-            "owner": "conp-solutions",
-            "repo": "mergesat",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Slime (2021) - code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-07-12T14:24:00Z",
-            "owner": "maxtuno",
-            "repo": "slime-sat-solver",
-            "stars": 20
-          }
-        }
-      ],
-      "title": "Other solvers of interest:"
-    },
-    {
-      "description": "MaxSAT is the problem of the finding the maximum number of clauses which can be satisfied for a particular formula. MaxSAT can be seen as an optimisation version of the SAT problem. Minimally Unsatisfiable Subformulas (MUSs) are like duals MaxSAT, they ask for the minimal set of assignments which will show a formula is unsatisfiable. - wiki\nSolvers include:",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Loandra",
-          "description": "(MaxSAT)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-04-23T09:03:43Z",
-            "owner": "jezberg",
-            "repo": "loandra",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MUSer",
-          "description": "(MUSer)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2019-09-11T06:24:20Z",
-            "owner": "meelgroup",
-            "repo": "muser",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "MaxSAT Solvers"
-    },
-    {
-      "description": "The #SAT is the problem of counting all the assignments which satisfy a Boolean formula. - wiki\nSolvers include:",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ApproxMCv6",
-          "description": "(by creators of CryptoMiniSAT)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-07-21T08:52:31Z",
-            "owner": "meelgroup",
-            "repo": "approxmc",
-            "stars": 90
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SharpSAT",
-          "description": "(sota circa 2011)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2022-08-28T18:13:04Z",
-            "owner": "marcthurley",
-            "repo": "sharpSAT",
-            "stars": 64
-          }
-        }
-      ],
-      "title": "SharpSAT Solvers"
-    },
-    {
-      "description": "Satisfiable Modulo Theory (SMT) solvers are generally built on top of SAT solvers and make use of expressive theories such as bit-vectors and or uninterpreted functions. SMT solvers generally use an extension of the DPLL algorithm called DPLL(T) (T is for Theory) | wiki\nSolvers include:",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Z3",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-19T03:26:18Z",
-            "owner": "Z3Prover",
-            "repo": "z3",
-            "stars": 12568
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bitwuzla",
-          "description": "(successor to Boolector)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "SMT",
-            "last_commit": "2026-08-18T17:46:10Z",
-            "owner": "bitwuzla",
-            "repo": "bitwuzla",
-            "stars": 376
-          }
-        }
-      ],
-      "title": "SMT Solvers"
-    },
-    {
-      "description": "0-1 integer programming was the first in Karp's list of 21 NP-complete problems which was reducible to SAT. Pseudo-boolean constraints are another term for 0-1 integer linear programming (ILP). While ILP solvers also use exhaustive search (e.g. branch and bound) they make heavy use of relaxations of the problem. - wiki | IP solvers from the SAT perspective | Academic survey of Branch-and-bound algorithms\nSolvers include:",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "HiGHS project",
-          "description": "code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T19:16:35Z",
-            "owner": "ERGO-Code",
-            "repo": "HiGHS",
-            "stars": 1788
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CBC code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-17T19:18:02Z",
-            "owner": "coin-or",
-            "repo": "Cbc",
-            "stars": 1007
-          }
-        }
-      ],
-      "title": "IP Solvers"
+      "title": "Related Solvers"
     },
     {
       "description": "Besides solvers, there are many other pieces of helpful software for solving SAT and related problems.\nMany complex problems can be solved by compiling the problem into a SAT encoding. Examples of domain problems which can be solved by reduction include planning problems (SATPLAN), automated theorem proving (via SMT), and formal verification (by bounded model checking).",
-      "items": [],
-      "title": "Other Software and Libraries"
-    },
-    {
-      "description": "",
       "items": [
         {
-          "node_type": "item",
-          "title": "SMAC Bayesian Hyperparameter optimisation code",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SMAC Bayesian Hyperparameter optimisation code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65900469,
+                "language": "Python",
+                "last_commit": "2026-08-17T13:21:25Z",
+                "owner": "automl",
+                "repo": "SMAC3",
+                "stars": 1242
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SpySMAC code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35346401,
+                "language": "Python",
+                "last_commit": "2017-05-08T00:52:17Z",
+                "owner": "sfalkner",
+                "repo": "SpySMAC",
+                "stars": 6
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T13:21:25Z",
-            "owner": "automl",
-            "repo": "SMAC3",
-            "stars": 1242
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SpySMAC code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-05-08T00:52:17Z",
-            "owner": "sfalkner",
-            "repo": "SpySMAC",
-            "stars": 6
-          }
+          "node_type": "group",
+          "title": "Configuration of Solvers"
         }
       ],
-      "title": "Configuration of Solvers"
+      "title": "Other Software and Libraries"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:01:17.260Z",
+    "last_updated": "2026-08-19T12:54:22.223Z",
     "original_repository": "urbanophile/awesome-sat-solvers",
+    "original_repository_id": 853608706,
     "original_repository_sha": "95a86112fb21b7cec8bcdac47b1dc546ba7c8bdd",
     "enhanced_repository": "enhansome/enhansome-sat-solvers",
     "enhanced_repository_description": null,

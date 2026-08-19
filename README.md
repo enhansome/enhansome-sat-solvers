@@ -160,7 +160,7 @@ Satisfiable Modulo Theory (SMT) solvers are generally built on top of SAT solver
 
 Solvers include:
 
-* [Z3](https://github.com/Z3Prover/z3) ⭐ 12,568 | 🐛 64 | 🌐 C++ | 📅 2026-08-19
+* [Z3](https://github.com/Z3Prover/z3) ⭐ 12,567 | 🐛 65 | 🌐 C++ | 📅 2026-08-19
 * [Bitwuzla](https://github.com/bitwuzla/bitwuzla) ⭐ 376 | 🐛 9 | 🌐 SMT | 📅 2026-08-18 (successor to Boolector)
 * [cvc5](https://cvc5.github.io/)
 
@@ -182,7 +182,7 @@ CSP solvers include:
 
 Solvers include:
 
-* HiGHS [project](https://highs.dev/) [code](https://github.com/ERGO-Code/HiGHS) ⭐ 1,788 | 🐛 153 | 🌐 C++ | 📅 2026-08-18
+* HiGHS [project](https://highs.dev/) [code](https://github.com/ERGO-Code/HiGHS) ⭐ 1,791 | 🐛 152 | 🌐 C++ | 📅 2026-08-19
 * CBC [code](https://github.com/coin-or/Cbc) ⭐ 1,007 | 🐛 167 | 🌐 C++ | 📅 2026-08-17
 * SCIP [project](https://scipopt.org/)
 
