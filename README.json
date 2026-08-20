@@ -47,7 +47,7 @@
                 "last_commit": "2025-10-16T17:24:57Z",
                 "owner": "arminbiere",
                 "repo": "kissat",
-                "stars": 662
+                "stars": 663
               }
             },
             {
@@ -251,7 +251,7 @@
                 "archived": false,
                 "id": 157052469,
                 "language": "C++",
-                "last_commit": "2026-07-21T08:52:31Z",
+                "last_commit": "2026-08-19T22:26:14Z",
                 "owner": "meelgroup",
                 "repo": "approxmc",
                 "stars": 90
@@ -288,10 +288,10 @@
                 "archived": false,
                 "id": 32944298,
                 "language": "C++",
-                "last_commit": "2026-08-19T03:26:18Z",
+                "last_commit": "2026-08-20T02:49:14Z",
                 "owner": "Z3Prover",
                 "repo": "z3",
-                "stars": 12567
+                "stars": 12572
               }
             },
             {
@@ -303,7 +303,7 @@
                 "archived": false,
                 "id": 296765908,
                 "language": "SMT",
-                "last_commit": "2026-08-18T17:46:10Z",
+                "last_commit": "2026-08-19T16:39:43Z",
                 "owner": "bitwuzla",
                 "repo": "bitwuzla",
                 "stars": 376
@@ -325,7 +325,7 @@
                 "archived": false,
                 "id": 126994758,
                 "language": "C++",
-                "last_commit": "2026-08-19T11:57:09Z",
+                "last_commit": "2026-08-19T18:07:26Z",
                 "owner": "ERGO-Code",
                 "repo": "HiGHS",
                 "stars": 1791
@@ -371,7 +371,7 @@
                 "last_commit": "2026-08-17T13:21:25Z",
                 "owner": "automl",
                 "repo": "SMAC3",
-                "stars": 1242
+                "stars": 1243
               }
             },
             {
@@ -399,7 +399,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:54:22.223Z",
+    "last_updated": "2026-08-20T04:01:21.424Z",
     "original_repository": "urbanophile/awesome-sat-solvers",
     "original_repository_id": 853608706,
     "original_repository_sha": "95a86112fb21b7cec8bcdac47b1dc546ba7c8bdd",
