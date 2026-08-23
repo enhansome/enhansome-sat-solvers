@@ -87,7 +87,7 @@ Three very important whose source code is informative to read are GRASP, Chaff a
 ### Other solvers of interest:
 
 * [gopher](https://github.com/crillab/gophersat) ⭐ 388 | 🐛 7 | 🌐 Go | 📅 2025-07-07 - solver written in Go
-* [varisat](https://github.com/jix/varisat) ⭐ 289 | 🐛 25 | 🌐 Rust | 📅 2022-11-02 - solver written in Rust
+* [varisat](https://github.com/jix/varisat) ⭐ 290 | 🐛 25 | 🌐 Rust | 📅 2022-11-02 - solver written in Rust
 * [Satch](https://github.com/arminbiere/satch) ⭐ 125 | 🐛 1 | 🌐 C | 📅 2026-02-10 - expository solver by Armin Biere
 * MergeSAT (2021) - [code](https://github.com/conp-solutions/mergesat) ⭐ 42 | 🐛 6 | 🌐 C++ | 📅 2023-11-20
 * Slime (2021) - [code](https://github.com/maxtuno/slime-sat-solver/) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2021-07-12
@@ -160,8 +160,8 @@ Satisfiable Modulo Theory (SMT) solvers are generally built on top of SAT solver
 
 Solvers include:
 
-* [Z3](https://github.com/Z3Prover/z3) ⭐ 12,584 | 🐛 63 | 🌐 C++ | 📅 2026-08-22
-* [Bitwuzla](https://github.com/bitwuzla/bitwuzla) ⭐ 379 | 🐛 9 | 🌐 SMT | 📅 2026-08-21 (successor to Boolector)
+* [Z3](https://github.com/Z3Prover/z3) ⭐ 12,589 | 🐛 53 | 🌐 C++ | 📅 2026-08-23
+* [Bitwuzla](https://github.com/bitwuzla/bitwuzla) ⭐ 379 | 🐛 9 | 🌐 SMT | 📅 2026-08-22 (successor to Boolector)
 * [cvc5](https://cvc5.github.io/)
 
 ### CSP Solvers
@@ -182,8 +182,8 @@ CSP solvers include:
 
 Solvers include:
 
-* HiGHS [project](https://highs.dev/) [code](https://github.com/ERGO-Code/HiGHS) ⭐ 1,792 | 🐛 140 | 🌐 C++ | 📅 2026-08-21
-* CBC [code](https://github.com/coin-or/Cbc) ⭐ 1,007 | 🐛 168 | 🌐 C++ | 📅 2026-08-21
+* HiGHS [project](https://highs.dev/) [code](https://github.com/ERGO-Code/HiGHS) ⭐ 1,794 | 🐛 139 | 🌐 C++ | 📅 2026-08-22
+* CBC [code](https://github.com/coin-or/Cbc) ⭐ 1,008 | 🐛 168 | 🌐 C++ | 📅 2026-08-22
 * SCIP [project](https://scipopt.org/)
 
 ## Other Software and Libraries
@@ -319,4 +319,4 @@ The handbook of SAT is an excellent and comprehensive resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
