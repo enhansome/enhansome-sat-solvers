@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 3709502,
                 "language": "C++",
-                "last_commit": "2026-07-21T16:01:00Z",
+                "last_commit": "2026-08-23T14:26:37Z",
                 "owner": "msoos",
                 "repo": "cryptominisat",
                 "stars": 939
@@ -288,10 +288,10 @@
                 "archived": false,
                 "id": 32944298,
                 "language": "C++",
-                "last_commit": "2026-08-23T03:49:48Z",
+                "last_commit": "2026-08-24T03:52:50Z",
                 "owner": "Z3Prover",
                 "repo": "z3",
-                "stars": 12589
+                "stars": 12597
               }
             },
             {
@@ -306,7 +306,7 @@
                 "last_commit": "2026-08-22T14:06:44Z",
                 "owner": "bitwuzla",
                 "repo": "bitwuzla",
-                "stars": 379
+                "stars": 380
               }
             }
           ],
@@ -328,7 +328,7 @@
                 "last_commit": "2026-08-22T11:55:05Z",
                 "owner": "ERGO-Code",
                 "repo": "HiGHS",
-                "stars": 1794
+                "stars": 1797
               }
             },
             {
@@ -368,7 +368,7 @@
                 "archived": false,
                 "id": 65900469,
                 "language": "Python",
-                "last_commit": "2026-08-21T08:43:29Z",
+                "last_commit": "2026-08-23T16:57:10Z",
                 "owner": "automl",
                 "repo": "SMAC3",
                 "stars": 1243
@@ -399,7 +399,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:03:45.934Z",
+    "last_updated": "2026-08-24T04:08:29.148Z",
     "original_repository": "urbanophile/awesome-sat-solvers",
     "original_repository_id": 853608706,
     "original_repository_sha": "95a86112fb21b7cec8bcdac47b1dc546ba7c8bdd",
