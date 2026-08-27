@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 65902420,
                 "language": "C++",
-                "last_commit": "2026-08-27T11:57:54Z",
+                "last_commit": "2026-08-27T12:35:40Z",
                 "owner": "arminbiere",
                 "repo": "cadical",
                 "stars": 590
@@ -347,7 +347,7 @@
                 "archived": false,
                 "id": 126994758,
                 "language": "C++",
-                "last_commit": "2026-08-27T11:33:53Z",
+                "last_commit": "2026-08-27T12:40:39Z",
                 "owner": "ERGO-Code",
                 "repo": "HiGHS",
                 "stars": 1804
@@ -443,7 +443,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:01:21.337Z",
+    "last_updated": "2026-08-27T14:16:29.380Z",
     "original_repository_info": {
       "archived": false,
       "id": 853608706,
