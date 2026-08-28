@@ -18,7 +18,8 @@
                 "owner": "niklasso",
                 "repo": "minisat",
                 "stars": 1189
-              }
+              },
+              "first_seen": "2026-08-28T15:26:33.832Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "msoos",
                 "repo": "cryptominisat",
                 "stars": 940
-              }
+              },
+              "first_seen": "2026-08-28T15:26:33.832Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "arminbiere",
                 "repo": "kissat",
                 "stars": 664
-              }
+              },
+              "first_seen": "2026-08-28T15:26:33.832Z"
             },
             {
               "node_type": "item",
@@ -59,11 +62,12 @@
                 "archived": false,
                 "id": 65902420,
                 "language": "C++",
-                "last_commit": "2026-08-27T12:35:40Z",
+                "last_commit": "2026-08-28T14:02:40Z",
                 "owner": "arminbiere",
                 "repo": "cadical",
                 "stars": 590
-              }
+              },
+              "first_seen": "2026-08-28T15:26:33.832Z"
             },
             {
               "node_type": "item",
@@ -77,8 +81,9 @@
                 "last_commit": "2025-12-30T08:42:13Z",
                 "owner": "audemard",
                 "repo": "glucose",
-                "stars": 151
-              }
+                "stars": 152
+              },
+              "first_seen": "2026-08-28T15:26:33.832Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "hgarrereyn",
                 "repo": "SBVA",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T15:26:33.832Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "satmuseum",
                 "repo": "grasp",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T15:26:33.832Z"
             }
           ],
           "description": "Three very important whose source code is informative to read are GRASP, Chaff and MiniSAT. These are important or (historical) state of the art solvers.",
@@ -130,7 +137,8 @@
                 "owner": "crillab",
                 "repo": "gophersat",
                 "stars": 388
-              }
+              },
+              "first_seen": "2026-08-28T15:26:33.832Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "jix",
                 "repo": "varisat",
                 "stars": 290
-              }
+              },
+              "first_seen": "2026-08-28T15:26:33.832Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "arminbiere",
                 "repo": "satch",
                 "stars": 125
-              }
+              },
+              "first_seen": "2026-08-28T15:26:33.832Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "conp-solutions",
                 "repo": "mergesat",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T15:26:33.832Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "maxtuno",
                 "repo": "slime-sat-solver",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T15:26:33.832Z"
             }
           ],
           "description": null,
@@ -218,7 +230,8 @@
                 "owner": "jezberg",
                 "repo": "loandra",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T15:26:33.832Z"
             },
             {
               "node_type": "item",
@@ -233,7 +246,8 @@
                 "owner": "meelgroup",
                 "repo": "muser",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T15:26:33.832Z"
             }
           ],
           "description": "MaxSAT is the problem of the finding the maximum number of clauses which can be satisfied for a particular formula. MaxSAT can be seen as an optimisation version of the SAT problem. Minimally Unsatisfiable Subformulas (MUSs) are like duals MaxSAT, they ask for the minimal set of assignments which will show a formula is unsatisfiable. - wiki\nSolvers include:",
@@ -255,7 +269,8 @@
                 "owner": "meelgroup",
                 "repo": "approxmc",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T15:26:33.832Z"
             },
             {
               "node_type": "item",
@@ -270,7 +285,8 @@
                 "owner": "marcthurley",
                 "repo": "sharpSAT",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T15:26:33.832Z"
             }
           ],
           "description": "The #SAT is the problem of counting all the assignments which satisfy a Boolean formula. - wiki\nSolvers include:",
@@ -292,7 +308,8 @@
                 "owner": "ltentrup",
                 "repo": "caqe",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T15:26:33.832Z"
             }
           ],
           "description": "Quantified boolean formula (QBF) is generalisation boolean formula which allows existential and universal quanitifiers. The SAT problem for QBF formula (QSAT) is the canonical PSPACE problem. In addition to CDCL, a standard QBF solver algorithm is CounterExample-Guided Abstraction Refinement (CEGAR) - wiki\nSolvers include:",
@@ -310,11 +327,12 @@
                 "archived": false,
                 "id": 32944298,
                 "language": "C++",
-                "last_commit": "2026-08-27T10:49:27Z",
+                "last_commit": "2026-08-28T15:15:13Z",
                 "owner": "Z3Prover",
                 "repo": "z3",
-                "stars": 12610
-              }
+                "stars": 12614
+              },
+              "first_seen": "2026-08-28T15:26:33.832Z"
             },
             {
               "node_type": "item",
@@ -325,11 +343,12 @@
                 "archived": false,
                 "id": 296765908,
                 "language": "SMT",
-                "last_commit": "2026-08-26T23:15:17Z",
+                "last_commit": "2026-08-28T00:04:12Z",
                 "owner": "bitwuzla",
                 "repo": "bitwuzla",
-                "stars": 381
-              }
+                "stars": 382
+              },
+              "first_seen": "2026-08-28T15:26:33.832Z"
             }
           ],
           "description": "Satisfiable Modulo Theory (SMT) solvers are generally built on top of SAT solvers and make use of expressive theories such as bit-vectors and or uninterpreted functions. SMT solvers generally use an extension of the DPLL algorithm called DPLL(T) (T is for Theory) | wiki\nSolvers include:",
@@ -347,11 +366,12 @@
                 "archived": false,
                 "id": 126994758,
                 "language": "C++",
-                "last_commit": "2026-08-27T12:40:39Z",
+                "last_commit": "2026-08-28T10:59:56Z",
                 "owner": "ERGO-Code",
                 "repo": "HiGHS",
-                "stars": 1804
-              }
+                "stars": 1807
+              },
+              "first_seen": "2026-08-28T15:26:33.832Z"
             },
             {
               "node_type": "item",
@@ -366,7 +386,8 @@
                 "owner": "coin-or",
                 "repo": "Cbc",
                 "stars": 1008
-              }
+              },
+              "first_seen": "2026-08-28T15:26:33.832Z"
             }
           ],
           "description": "0-1 integer programming was the first in Karp's list of 21 NP-complete problems which was reducible to SAT. Pseudo-boolean constraints are another term for 0-1 integer linear programming (ILP). While ILP solvers also use exhaustive search (e.g. branch and bound) they make heavy use of relaxations of the problem. - wiki | IP solvers from the SAT perspective | Academic survey of Branch-and-bound algorithms\nSolvers include:",
@@ -394,7 +415,8 @@
                 "owner": "marijnheule",
                 "repo": "drat-trim",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T15:26:33.832Z"
             }
           ],
           "description": null,
@@ -416,7 +438,8 @@
                 "owner": "automl",
                 "repo": "SMAC3",
                 "stars": 1244
-              }
+              },
+              "first_seen": "2026-08-28T15:26:33.832Z"
             },
             {
               "node_type": "item",
@@ -431,7 +454,8 @@
                 "owner": "sfalkner",
                 "repo": "SpySMAC",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T15:26:33.832Z"
             }
           ],
           "description": null,
@@ -443,7 +467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:16:29.380Z",
+    "last_updated": "2026-08-28T15:26:33.832Z",
     "original_repository_info": {
       "archived": false,
       "id": 853608706,
