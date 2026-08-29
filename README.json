@@ -39,7 +39,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-23T14:26:37Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "msoos",
                 "repo": "cryptominisat",
                 "stars": 940,
@@ -458,10 +458,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-29T03:38:18Z",
-                "open_issues": 58,
+                "open_issues": 57,
                 "owner": "Z3Prover",
                 "repo": "z3",
-                "stars": 12614,
+                "stars": 12615,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -506,8 +506,8 @@
                 "id": 126994758,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-08-28T10:59:56Z",
-                "open_issues": 131,
+                "last_commit": "2026-08-29T08:38:41Z",
+                "open_issues": 130,
                 "owner": "ERGO-Code",
                 "repo": "HiGHS",
                 "stars": 1808,
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:03:52.339Z",
+    "last_updated": "2026-08-29T10:09:33.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of resources for the Boolean Satisfiability Problem (SAT).",
