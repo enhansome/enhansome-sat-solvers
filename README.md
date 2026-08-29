@@ -160,8 +160,8 @@ Satisfiable Modulo Theory (SMT) solvers are generally built on top of SAT solver
 
 Solvers include:
 
-* [Z3](https://github.com/Z3Prover/z3) ⭐ 12,614 | 🐛 53 | 🌐 C++ | 📅 2026-08-28
-* [Bitwuzla](https://github.com/bitwuzla/bitwuzla) ⭐ 382 | 🐛 8 | 🌐 SMT | 📅 2026-08-28 (successor to Boolector)
+* [Z3](https://github.com/Z3Prover/z3) ⭐ 12,614 | 🐛 58 | 🌐 C++ | 📅 2026-08-29
+* [Bitwuzla](https://github.com/bitwuzla/bitwuzla) ⭐ 383 | 🐛 8 | 🌐 SMT | 📅 2026-08-28 (successor to Boolector)
 * [cvc5](https://cvc5.github.io/)
 
 ### CSP Solvers
@@ -182,8 +182,8 @@ CSP solvers include:
 
 Solvers include:
 
-* HiGHS [project](https://highs.dev/) [code](https://github.com/ERGO-Code/HiGHS) ⭐ 1,807 | 🐛 130 | 🌐 C++ | 📅 2026-08-28
-* CBC [code](https://github.com/coin-or/Cbc) ⭐ 1,008 | 🐛 167 | 🌐 C++ | 📅 2026-08-26
+* HiGHS [project](https://highs.dev/) [code](https://github.com/ERGO-Code/HiGHS) ⭐ 1,808 | 🐛 131 | 🌐 C++ | 📅 2026-08-28
+* CBC [code](https://github.com/coin-or/Cbc) ⭐ 1,008 | 🐛 167 | 🌐 C++ | 📅 2026-08-28
 * SCIP [project](https://scipopt.org/)
 
 ## Other Software and Libraries
@@ -319,4 +319,4 @@ The handbook of SAT is an excellent and comprehensive resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimalistic and high-performance SAT solver",
+                "homepage": "minisat.se",
                 "id": 299343,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-28T23:57:29Z",
+                "open_issues": 40,
                 "owner": "niklasso",
                 "repo": "minisat",
-                "stars": 1189
+                "stars": 1189,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
             },
@@ -28,12 +33,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An advanced SAT solver",
+                "homepage": "https://www.msoos.org",
                 "id": 3709502,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-23T14:26:37Z",
+                "open_issues": 0,
                 "owner": "msoos",
                 "repo": "cryptominisat",
-                "stars": 940
+                "stars": 940,
+                "topics": [
+                  "cdcl-algorithm",
+                  "cnf",
+                  "cryptography",
+                  "dpll",
+                  "proof",
+                  "sat-solver",
+                  "verification",
+                  "xor"
+                ]
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
             },
@@ -44,12 +63,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 267257286,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-10-16T17:24:57Z",
+                "open_issues": 18,
                 "owner": "arminbiere",
                 "repo": "kissat",
-                "stars": 664
+                "stars": 664,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
             },
@@ -60,12 +84,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CaDiCaL SAT Solver",
+                "homepage": null,
                 "id": 65902420,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:02:40Z",
+                "open_issues": 24,
                 "owner": "arminbiere",
                 "repo": "cadical",
-                "stars": 590
+                "stars": 590,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
             },
@@ -76,12 +105,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The glucose SAT solver",
+                "homepage": "https://www.labri.fr/perso/lsimon/research/glucose/",
                 "id": 638137650,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-12-30T08:42:13Z",
+                "open_issues": 1,
                 "owner": "audemard",
                 "repo": "glucose",
-                "stars": 152
+                "stars": 152,
+                "topics": [
+                  "sat",
+                  "sat-solver",
+                  "satisfiability",
+                  "solver"
+                ]
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
             },
@@ -92,12 +131,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Structured BVA",
+                "homepage": null,
                 "id": 634705438,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-04-26T02:24:35Z",
+                "open_issues": 2,
                 "owner": "hgarrereyn",
                 "repo": "SBVA",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
             },
@@ -108,12 +152,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The first CDCL solver written by Joao Marques Silva in 1996",
+                "homepage": null,
                 "id": 45273920,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2015-10-30T20:10:07Z",
+                "open_issues": 0,
                 "owner": "satmuseum",
                 "repo": "grasp",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
             }
@@ -131,12 +180,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "gophersat, a SAT solver in Go",
+                "homepage": null,
                 "id": 104997433,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-07-07T12:09:29Z",
+                "open_issues": 7,
                 "owner": "crillab",
                 "repo": "gophersat",
-                "stars": 388
+                "stars": 388,
+                "topics": [
+                  "artificial-intelligence",
+                  "boolean-formulas",
+                  "constraint-satisfaction-problem",
+                  "constraints",
+                  "pseudo-boolean-solver",
+                  "sat-solver"
+                ]
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
             },
@@ -147,12 +208,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SAT solver written in Rust",
+                "homepage": "https://jix.one/project/varisat",
                 "id": 168965030,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-02T21:46:18Z",
+                "open_issues": 25,
                 "owner": "jix",
                 "repo": "varisat",
-                "stars": 290
+                "stars": 290,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
             },
@@ -163,12 +229,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SAT Solver SATCH",
+                "homepage": null,
                 "id": 334146778,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-02-10T13:54:18Z",
+                "open_issues": 1,
                 "owner": "arminbiere",
                 "repo": "satch",
-                "stars": 125
+                "stars": 125,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
             },
@@ -179,12 +250,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "configurable, high-performance SAT solver, implementing incremental solving interface of MiniSat and IPASIR. Based on MiniSat (minisat.se)",
+                "homepage": "https://conp-solutions.com",
                 "id": 126389427,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-20T19:08:17Z",
+                "open_issues": 6,
                 "owner": "conp-solutions",
                 "repo": "mergesat",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "automated-reasoning",
+                  "sat"
+                ]
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
             },
@@ -195,12 +274,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Free World Class High Performance SAT Solver",
+                "homepage": "https://maxtuno.github.io/slime-sat-solver",
                 "id": 181300479,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2021-07-12T14:24:00Z",
+                "open_issues": 0,
                 "owner": "maxtuno",
                 "repo": "slime-sat-solver",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "cnf",
+                  "cnf-clauses",
+                  "cnf-encoding",
+                  "sat",
+                  "sat-solver",
+                  "satisfiability"
+                ]
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
             }
@@ -224,12 +315,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The anytime MaxSAT solver Loandra",
+                "homepage": null,
                 "id": 198180294,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-23T09:03:43Z",
+                "open_issues": 0,
                 "owner": "jezberg",
                 "repo": "loandra",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
             },
@@ -240,12 +336,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Copy of https://bitbucket.org/anton_belov/muser2 with compile fixes",
+                "homepage": null,
                 "id": 207738499,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2019-09-11T06:24:20Z",
+                "open_issues": 0,
                 "owner": "meelgroup",
                 "repo": "muser",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
             }
@@ -263,12 +364,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Approximate Model Counter",
+                "homepage": null,
                 "id": 157052469,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-19T22:26:14Z",
+                "open_issues": 1,
                 "owner": "meelgroup",
                 "repo": "approxmc",
-                "stars": 90
+                "stars": 90,
+                "topics": [
+                  "cnf-clauses",
+                  "counting",
+                  "dimacs-cnf",
+                  "model-couting",
+                  "sat",
+                  "satisfiability"
+                ]
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
             },
@@ -279,12 +392,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The #SAT solver sharpSAT",
+                "homepage": null,
                 "id": 5542089,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2022-08-28T18:13:04Z",
+                "open_issues": 12,
                 "owner": "marcthurley",
                 "repo": "sharpSAT",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
             }
@@ -302,12 +420,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CAQE is a solver for quantified Boolean formulas",
+                "homepage": null,
                 "id": 133914243,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2023-05-13T08:26:48Z",
+                "open_issues": 6,
                 "owner": "ltentrup",
                 "repo": "caqe",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "qbf",
+                  "qdimacs",
+                  "solver"
+                ]
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
             }
@@ -325,12 +452,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Z3 Theorem Prover",
+                "homepage": null,
                 "id": 32944298,
                 "language": "C++",
-                "last_commit": "2026-08-28T15:15:13Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:38:18Z",
+                "open_issues": 58,
                 "owner": "Z3Prover",
                 "repo": "z3",
-                "stars": 12614
+                "stars": 12614,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
             },
@@ -341,12 +473,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bitwuzla is a Satisfiability Modulo Theories (SMT) solver for the theories of fixed-size bit-vectors, floating-point arithmetic, arrays and uninterpreted functions and their combinations. Its name is derived from an Austrian dialect expression that can be translated as “someone who tinkers with bits”.",
+                "homepage": "https://bitwuzla.github.io",
                 "id": 296765908,
                 "language": "SMT",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T00:04:12Z",
+                "open_issues": 8,
                 "owner": "bitwuzla",
                 "repo": "bitwuzla",
-                "stars": 382
+                "stars": 383,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
             }
@@ -364,12 +501,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Linear optimization software",
+                "homepage": null,
                 "id": 126994758,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-28T10:59:56Z",
+                "open_issues": 131,
                 "owner": "ERGO-Code",
                 "repo": "HiGHS",
-                "stars": 1807
+                "stars": 1808,
+                "topics": [
+                  "high-performance",
+                  "interior-point-method",
+                  "linear-optimization",
+                  "mixed-integer-programming",
+                  "parallel",
+                  "quadratic-programming",
+                  "simplex"
+                ]
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
             },
@@ -380,12 +530,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "COIN-OR Branch-and-Cut solver",
+                "homepage": null,
                 "id": 173509563,
                 "language": "C++",
-                "last_commit": "2026-08-26T22:15:37Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T19:20:33Z",
+                "open_issues": 167,
                 "owner": "coin-or",
                 "repo": "Cbc",
-                "stars": 1008
+                "stars": 1008,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
             }
@@ -409,12 +564,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The DRAT-trim proof checker",
+                "homepage": null,
                 "id": 71261694,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-11-25T15:20:29Z",
+                "open_issues": 17,
                 "owner": "marijnheule",
                 "repo": "drat-trim",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
             }
@@ -432,12 +592,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SMAC3: A Versatile Bayesian Optimization Package for Hyperparameter Optimization",
+                "homepage": "https://automl.github.io/SMAC3/latest/",
                 "id": 65900469,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T11:10:11Z",
+                "open_issues": 126,
                 "owner": "automl",
                 "repo": "SMAC3",
-                "stars": 1244
+                "stars": 1244,
+                "topics": [
+                  "algorithm-configuration",
+                  "automated-machine-learning",
+                  "automl",
+                  "bayesian-optimisation",
+                  "bayesian-optimization",
+                  "configuration",
+                  "gaussian-process",
+                  "hyperparameter-optimization",
+                  "hyperparameter-search",
+                  "hyperparameter-tuning",
+                  "random-forest"
+                ]
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
             },
@@ -448,12 +625,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for automatic SAT solver configuration using SMAC combined with extensive analysis.",
+                "homepage": null,
                 "id": 35346401,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2017-05-08T00:52:17Z",
+                "open_issues": 7,
                 "owner": "sfalkner",
                 "repo": "SpySMAC",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
             }
@@ -467,15 +649,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:26:33.832Z",
+    "last_updated": "2026-08-29T05:03:52.339Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated collection of resources for the Boolean Satisfiability Problem (SAT).",
+      "homepage": null,
       "id": 853608706,
       "language": null,
+      "license": null,
       "last_commit": "2025-11-30T02:41:52Z",
+      "open_issues": 1,
       "owner": "urbanophile",
       "repo": "awesome-sat-solvers",
-      "stars": 71
+      "stars": 71,
+      "topics": [
+        "automate-reasoning",
+        "awesome",
+        "awesome-list",
+        "deductive-reasoning",
+        "formal-methods",
+        "logic",
+        "optimization",
+        "sat",
+        "sat-solver",
+        "smt"
+      ]
     },
     "original_repository_sha": "95a86112fb21b7cec8bcdac47b1dc546ba7c8bdd",
     "enhanced_repository": "enhansome/enhansome-sat-solvers",
