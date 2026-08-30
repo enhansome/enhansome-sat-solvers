@@ -38,7 +38,7 @@
                 "id": 3709502,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-23T14:26:37Z",
+                "last_commit": "2026-08-29T18:55:26Z",
                 "open_issues": 1,
                 "owner": "msoos",
                 "repo": "cryptominisat",
@@ -457,11 +457,11 @@
                 "id": 32944298,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T03:38:18Z",
-                "open_issues": 57,
+                "last_commit": "2026-08-30T04:50:52Z",
+                "open_issues": 58,
                 "owner": "Z3Prover",
                 "repo": "z3",
-                "stars": 12615,
+                "stars": 12618,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -482,7 +482,7 @@
                 "open_issues": 8,
                 "owner": "bitwuzla",
                 "repo": "bitwuzla",
-                "stars": 383,
+                "stars": 384,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -507,10 +507,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-08-29T08:38:41Z",
-                "open_issues": 130,
+                "open_issues": 131,
                 "owner": "ERGO-Code",
                 "repo": "HiGHS",
-                "stars": 1808,
+                "stars": 1809,
                 "topics": [
                   "high-performance",
                   "interior-point-method",
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T10:09:33.886Z",
+    "last_updated": "2026-08-30T09:17:36.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of resources for the Boolean Satisfiability Problem (SAT).",
