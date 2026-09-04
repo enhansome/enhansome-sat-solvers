@@ -71,7 +71,7 @@ SAT has a nice tradition of making solver public and open source. As Yogi Berra 
 
 Three very important whose source code is informative to read are GRASP, Chaff and MiniSAT. These are important or (historical) state of the art solvers.
 
-* MiniSAT(2003) - Famous for being good, short (2k LOC), and introducing incremental SAT, MiniSAT is still widely used. Clear and worth reading espcially version 1.12! [code](https://github.com/niklasso/minisat) ⭐ 1,189 | 🐛 40 | 🌐 C++ | 📅 2024-04-28 |  [paper](http://minisat.se/downloads/MiniSat.pdf)
+* MiniSAT(2003) - Famous for being good, short (2k LOC), and introducing incremental SAT, MiniSAT is still widely used. Clear and worth reading espcially version 1.12! [code](https://github.com/niklasso/minisat) ⭐ 1,187 | 🐛 40 | 🌐 C++ | 📅 2024-04-28 |  [paper](http://minisat.se/downloads/MiniSat.pdf)
 * CryptoMiniSAT (2009) - Uses XOR primitive  - [code](https://github.com/msoos/cryptominisat) ⭐ 940 | 🐛 1 | 🌐 C++ | 📅 2026-09-02 | [paper](https://www.msoos.org/wordpress/wp-content/uploads/2011/03/Extending_SAT_2009.pdf)
 * Kissat (2020) - -  [code](https://github.com/arminbiere/kissat) ⭐ 666 | 🐛 18 | 🌐 C | 📅 2025-10-16
 * CaDiCaL (2019) - [paper](https://cca.informatik.uni-freiburg.de/papers/Biere-SAT-Competition-2018-solvers.pdf) | [code](https://github.com/arminbiere/cadical) ⭐ 594 | 🐛 25 | 🌐 C++ | 📅 2026-09-02
@@ -160,8 +160,8 @@ Satisfiable Modulo Theory (SMT) solvers are generally built on top of SAT solver
 
 Solvers include:
 
-* [Z3](https://github.com/Z3Prover/z3) ⭐ 12,634 | 🐛 52 | 🌐 C++ | 📅 2026-09-03
-* [Bitwuzla](https://github.com/bitwuzla/bitwuzla) ⭐ 386 | 🐛 5 | 🌐 SMT | 📅 2026-09-02 (successor to Boolector)
+* [Z3](https://github.com/Z3Prover/z3) ⭐ 12,635 | 🐛 52 | 🌐 C++ | 📅 2026-09-04
+* [Bitwuzla](https://github.com/bitwuzla/bitwuzla) ⭐ 386 | 🐛 5 | 🌐 SMT | 📅 2026-09-04 (successor to Boolector)
 * [cvc5](https://cvc5.github.io/)
 
 ### CSP Solvers
@@ -182,8 +182,8 @@ CSP solvers include:
 
 Solvers include:
 
-* HiGHS [project](https://highs.dev/) [code](https://github.com/ERGO-Code/HiGHS) ⭐ 1,815 | 🐛 129 | 🌐 C++ | 📅 2026-09-02
-* CBC [code](https://github.com/coin-or/Cbc) ⭐ 1,011 | 🐛 167 | 🌐 C++ | 📅 2026-09-03
+* HiGHS [project](https://highs.dev/) [code](https://github.com/ERGO-Code/HiGHS) ⭐ 1,818 | 🐛 120 | 🌐 C++ | 📅 2026-09-04
+* CBC [code](https://github.com/coin-or/Cbc) ⭐ 1,012 | 🐛 167 | 🌐 C++ | 📅 2026-09-03
 * SCIP [project](https://scipopt.org/)
 
 ## Other Software and Libraries
@@ -319,4 +319,4 @@ The handbook of SAT is an excellent and comprehensive resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
