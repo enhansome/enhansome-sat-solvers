@@ -89,7 +89,7 @@
                 "id": 65902420,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-02T11:56:58Z",
+                "last_commit": "2026-09-04T12:34:46Z",
                 "open_issues": 25,
                 "owner": "arminbiere",
                 "repo": "cadical",
@@ -217,7 +217,7 @@
                 "open_issues": 25,
                 "owner": "jix",
                 "repo": "varisat",
-                "stars": 290,
+                "stars": 291,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -457,11 +457,11 @@
                 "id": 32944298,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T07:27:29Z",
+                "last_commit": "2026-09-05T05:30:28Z",
                 "open_issues": 52,
                 "owner": "Z3Prover",
                 "repo": "z3",
-                "stars": 12635,
+                "stars": 12641,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -478,7 +478,7 @@
                 "id": 296765908,
                 "language": "SMT",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T01:10:50Z",
+                "last_commit": "2026-09-05T06:36:21Z",
                 "open_issues": 5,
                 "owner": "bitwuzla",
                 "repo": "bitwuzla",
@@ -506,11 +506,11 @@
                 "id": 126994758,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-04T02:05:25Z",
+                "last_commit": "2026-09-04T17:30:45Z",
                 "open_issues": 120,
                 "owner": "ERGO-Code",
                 "repo": "HiGHS",
-                "stars": 1818,
+                "stars": 1820,
                 "topics": [
                   "high-performance",
                   "interior-point-method",
@@ -539,7 +539,7 @@
                 "open_issues": 167,
                 "owner": "coin-or",
                 "repo": "Cbc",
-                "stars": 1012,
+                "stars": 1013,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T08:01:45.873Z",
+    "last_updated": "2026-09-05T07:42:59.140Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of resources for the Boolean Satisfiability Problem (SAT).",
