@@ -72,7 +72,7 @@ SAT has a nice tradition of making solver public and open source. As Yogi Berra 
 Three very important whose source code is informative to read are GRASP, Chaff and MiniSAT. These are important or (historical) state of the art solvers.
 
 * MiniSAT(2003) - Famous for being good, short (2k LOC), and introducing incremental SAT, MiniSAT is still widely used. Clear and worth reading espcially version 1.12! [code](https://github.com/niklasso/minisat) ⭐ 1,187 | 🐛 40 | 🌐 C++ | 📅 2024-04-28 |  [paper](http://minisat.se/downloads/MiniSat.pdf)
-* CryptoMiniSAT (2009) - Uses XOR primitive  - [code](https://github.com/msoos/cryptominisat) ⭐ 941 | 🐛 1 | 🌐 C++ | 📅 2026-09-07 | [paper](https://www.msoos.org/wordpress/wp-content/uploads/2011/03/Extending_SAT_2009.pdf)
+* CryptoMiniSAT (2009) - Uses XOR primitive  - [code](https://github.com/msoos/cryptominisat) ⭐ 941 | 🐛 1 | 🌐 C++ | 📅 2026-09-08 | [paper](https://www.msoos.org/wordpress/wp-content/uploads/2011/03/Extending_SAT_2009.pdf)
 * Kissat (2020) - -  [code](https://github.com/arminbiere/kissat) ⭐ 666 | 🐛 18 | 🌐 C | 📅 2025-10-16
 * CaDiCaL (2019) - [paper](https://cca.informatik.uni-freiburg.de/papers/Biere-SAT-Competition-2018-solvers.pdf) | [code](https://github.com/arminbiere/cadical) ⭐ 596 | 🐛 26 | 🌐 C++ | 📅 2026-09-07
 * Glucose (2009) -  Introduced different heuristics for SAT and UNSAT - [code](https://github.com/audemard/glucose) ⭐ 152 | 🐛 1 | 🌐 C++ | 📅 2025-12-30 | [paper](https://univ-artois.hal.science/hal-03299473/file/preprint.pdf)
@@ -142,7 +142,7 @@ The #SAT is the problem of counting all the assignments which satisfy a Boolean 
 
 Solvers include:
 
-* [ApproxMCv6](https://github.com/meelgroup/approxmc) ⭐ 90 | 🐛 1 | 🌐 C++ | 📅 2026-08-19 (by creators of CryptoMiniSAT)
+* [ApproxMCv6](https://github.com/meelgroup/approxmc) ⭐ 90 | 🐛 1 | 🌐 C++ | 📅 2026-09-08 (by creators of CryptoMiniSAT)
 * [SharpSAT](https://github.com/marcthurley/sharpSAT) ⭐ 64 | 🐛 12 | 🌐 C++ | 📅 2022-08-28 (sota circa 2011)
 
 ### QBF solvers
@@ -160,7 +160,7 @@ Satisfiable Modulo Theory (SMT) solvers are generally built on top of SAT solver
 
 Solvers include:
 
-* [Z3](https://github.com/Z3Prover/z3) ⭐ 12,653 | 🐛 43 | 🌐 C++ | 📅 2026-09-08
+* [Z3](https://github.com/Z3Prover/z3) ⭐ 12,655 | 🐛 44 | 🌐 C++ | 📅 2026-09-09
 * [Bitwuzla](https://github.com/bitwuzla/bitwuzla) ⭐ 387 | 🐛 5 | 🌐 SMT | 📅 2026-09-05 (successor to Boolector)
 * [cvc5](https://cvc5.github.io/)
 
@@ -182,8 +182,8 @@ CSP solvers include:
 
 Solvers include:
 
-* HiGHS [project](https://highs.dev/) [code](https://github.com/ERGO-Code/HiGHS) ⭐ 1,825 | 🐛 117 | 🌐 C++ | 📅 2026-09-07
-* CBC [code](https://github.com/coin-or/Cbc) ⭐ 1,013 | 🐛 167 | 🌐 C++ | 📅 2026-09-07
+* HiGHS [project](https://highs.dev/) [code](https://github.com/ERGO-Code/HiGHS) ⭐ 1,825 | 🐛 117 | 🌐 C++ | 📅 2026-09-08
+* CBC [code](https://github.com/coin-or/Cbc) ⭐ 1,014 | 🐛 167 | 🌐 C++ | 📅 2026-09-09
 * SCIP [project](https://scipopt.org/)
 
 ## Other Software and Libraries
@@ -319,4 +319,4 @@ The handbook of SAT is an excellent and comprehensive resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
