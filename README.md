@@ -160,8 +160,8 @@ Satisfiable Modulo Theory (SMT) solvers are generally built on top of SAT solver
 
 Solvers include:
 
-* [Z3](https://github.com/Z3Prover/z3) ⭐ 12,736 | 🐛 46 | 🌐 C++ | 📅 2026-10-01
-* [Bitwuzla](https://github.com/bitwuzla/bitwuzla) ⭐ 395 | 🐛 9 | 🌐 SMT | 📅 2026-10-01 (successor to Boolector)
+* [Z3](https://github.com/Z3Prover/z3) ⭐ 12,738 | 🐛 53 | 🌐 C++ | 📅 2026-10-02
+* [Bitwuzla](https://github.com/bitwuzla/bitwuzla) ⭐ 396 | 🐛 7 | 🌐 SMT | 📅 2026-10-02 (successor to Boolector)
 * [cvc5](https://cvc5.github.io/)
 
 ### CSP Solvers
@@ -182,8 +182,8 @@ CSP solvers include:
 
 Solvers include:
 
-* HiGHS [project](https://highs.dev/) [code](https://github.com/ERGO-Code/HiGHS) ⭐ 1,860 | 🐛 107 | 🌐 C++ | 📅 2026-10-01
-* CBC [code](https://github.com/coin-or/Cbc) ⭐ 1,015 | 🐛 168 | 🌐 C++ | 📅 2026-09-30
+* HiGHS [project](https://highs.dev/) [code](https://github.com/ERGO-Code/HiGHS) ⭐ 1,860 | 🐛 106 | 🌐 C++ | 📅 2026-10-02
+* CBC [code](https://github.com/coin-or/Cbc) ⭐ 1,016 | 🐛 168 | 🌐 C++ | 📅 2026-09-30
 * SCIP [project](https://scipopt.org/)
 
 ## Other Software and Libraries
@@ -209,7 +209,7 @@ Many complex problems can be solved by compiling the problem into a SAT encoding
 
 ### Configuration of Solvers
 
-* SMAC Bayesian Hyperparameter optimisation [code](https://github.com/automl/SMAC3) ⭐ 1,253 | 🐛 113 | 🌐 Python | 📅 2026-09-29
+* SMAC Bayesian Hyperparameter optimisation [code](https://github.com/automl/SMAC3) ⭐ 1,253 | 🐛 114 | 🌐 Python | 📅 2026-10-01
 * SpySMAC [code](https://github.com/sfalkner/SpySMAC) ⭐ 6 | 🐛 7 | 🌐 Python | 📅 2017-05-08
 
 ## Research
@@ -319,4 +319,4 @@ The handbook of SAT is an excellent and comprehensive resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
