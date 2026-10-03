@@ -458,7 +458,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-03T03:52:05Z",
-                "open_issues": 51,
+                "open_issues": 53,
                 "owner": "Z3Prover",
                 "repo": "z3",
                 "stars": 12744,
@@ -510,7 +510,7 @@
                 "open_issues": 109,
                 "owner": "ERGO-Code",
                 "repo": "HiGHS",
-                "stars": 1861,
+                "stars": 1862,
                 "topics": [
                   "high-performance",
                   "interior-point-method",
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:06:21.792Z",
+    "last_updated": "2026-10-03T09:13:35.599Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of resources for the Boolean Satisfiability Problem (SAT).",
