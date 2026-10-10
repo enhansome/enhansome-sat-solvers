@@ -72,9 +72,9 @@ SAT has a nice tradition of making solver public and open source. As Yogi Berra 
 Three very important whose source code is informative to read are GRASP, Chaff and MiniSAT. These are important or (historical) state of the art solvers.
 
 * MiniSAT(2003) - Famous for being good, short (2k LOC), and introducing incremental SAT, MiniSAT is still widely used. Clear and worth reading espcially version 1.12! [code](https://github.com/niklasso/minisat) ⭐ 1,191 | 🐛 40 | 🌐 C++ | 📅 2024-04-28 |  [paper](http://minisat.se/downloads/MiniSat.pdf)
-* CryptoMiniSAT (2009) - Uses XOR primitive  - [code](https://github.com/msoos/cryptominisat) ⭐ 940 | 🐛 4 | 🌐 C++ | 📅 2026-10-09 | [paper](https://www.msoos.org/wordpress/wp-content/uploads/2011/03/Extending_SAT_2009.pdf)
+* CryptoMiniSAT (2009) - Uses XOR primitive  - [code](https://github.com/msoos/cryptominisat) ⭐ 940 | 🐛 2 | 🌐 C++ | 📅 2026-10-09 | [paper](https://www.msoos.org/wordpress/wp-content/uploads/2011/03/Extending_SAT_2009.pdf)
 * Kissat (2020) - -  [code](https://github.com/arminbiere/kissat) ⭐ 673 | 🐛 18 | 🌐 C | 📅 2025-10-16
-* CaDiCaL (2019) - [paper](https://cca.informatik.uni-freiburg.de/papers/Biere-SAT-Competition-2018-solvers.pdf) | [code](https://github.com/arminbiere/cadical) ⭐ 614 | 🐛 37 | 🌐 C++ | 📅 2026-10-07
+* CaDiCaL (2019) - [paper](https://cca.informatik.uni-freiburg.de/papers/Biere-SAT-Competition-2018-solvers.pdf) | [code](https://github.com/arminbiere/cadical) ⭐ 615 | 🐛 39 | 🌐 C++ | 📅 2026-10-10
 * Glucose (2009) -  Introduced different heuristics for SAT and UNSAT - [code](https://github.com/audemard/glucose) ⭐ 156 | 🐛 2 | 🌐 C++ | 📅 2026-10-05 | [paper](https://univ-artois.hal.science/hal-03299473/file/preprint.pdf)
 * SBVA-CaDiCaL (2023) - overall winner in SAT competition. Develops heuristic for structured bounded variable addition (SBVA), a preprocessing technique which automatically reencodes formulas by introducing new variables to eliminating clauses which frequently results in reducing formula size. [code](https://github.com/hgarrereyn/SBVA) ⭐ 46 | 🐛 2 | 🌐 C++ | 📅 2024-04-26 [paper](https://arxiv.org/pdf/2307.01904)
 * GRASP (1996) -  GRASP pioneered the modern approach of CDCL. - [code](https://github.com/satmuseum/grasp) ⭐ 0 | 🐛 0 | 🌐 C++ | 📅 2015-10-30 | [paper](https://www.cs.cmu.edu/~emc/15-820A/reading/grasp_iccad96.pdf)
@@ -142,7 +142,7 @@ The #SAT is the problem of counting all the assignments which satisfy a Boolean 
 
 Solvers include:
 
-* [ApproxMCv6](https://github.com/meelgroup/approxmc) ⭐ 91 | 🐛 1 | 🌐 C++ | 📅 2026-09-25 (by creators of CryptoMiniSAT)
+* [ApproxMCv6](https://github.com/meelgroup/approxmc) ⭐ 91 | 🐛 1 | 🌐 C++ | 📅 2026-10-09 (by creators of CryptoMiniSAT)
 * [SharpSAT](https://github.com/marcthurley/sharpSAT) ⭐ 64 | 🐛 15 | 🌐 C++ | 📅 2022-08-28 (sota circa 2011)
 
 ### QBF solvers
@@ -160,8 +160,8 @@ Satisfiable Modulo Theory (SMT) solvers are generally built on top of SAT solver
 
 Solvers include:
 
-* [Z3](https://github.com/Z3Prover/z3) ⭐ 12,764 | 🐛 41 | 🌐 C++ | 📅 2026-10-09
-* [Bitwuzla](https://github.com/bitwuzla/bitwuzla) ⭐ 398 | 🐛 7 | 🌐 SMT | 📅 2026-10-09 (successor to Boolector)
+* [Z3](https://github.com/Z3Prover/z3) ⭐ 12,771 | 🐛 44 | 🌐 C++ | 📅 2026-10-10
+* [Bitwuzla](https://github.com/bitwuzla/bitwuzla) ⭐ 399 | 🐛 7 | 🌐 SMT | 📅 2026-10-09 (successor to Boolector)
 * [cvc5](https://cvc5.github.io/)
 
 ### CSP Solvers
@@ -182,8 +182,8 @@ CSP solvers include:
 
 Solvers include:
 
-* HiGHS [project](https://highs.dev/) [code](https://github.com/ERGO-Code/HiGHS) ⭐ 1,874 | 🐛 109 | 🌐 C++ | 📅 2026-10-09
-* CBC [code](https://github.com/coin-or/Cbc) ⭐ 1,018 | 🐛 172 | 🌐 C++ | 📅 2026-10-09
+* HiGHS [project](https://highs.dev/) [code](https://github.com/ERGO-Code/HiGHS) ⭐ 1,877 | 🐛 113 | 🌐 C++ | 📅 2026-10-09
+* CBC [code](https://github.com/coin-or/Cbc) ⭐ 1,019 | 🐛 172 | 🌐 C++ | 📅 2026-10-09
 * SCIP [project](https://scipopt.org/)
 
 ## Other Software and Libraries
@@ -209,7 +209,7 @@ Many complex problems can be solved by compiling the problem into a SAT encoding
 
 ### Configuration of Solvers
 
-* SMAC Bayesian Hyperparameter optimisation [code](https://github.com/automl/SMAC3) ⭐ 1,256 | 🐛 114 | 🌐 Python | 📅 2026-10-09
+* SMAC Bayesian Hyperparameter optimisation [code](https://github.com/automl/SMAC3) ⭐ 1,257 | 🐛 114 | 🌐 Python | 📅 2026-10-09
 * SpySMAC [code](https://github.com/sfalkner/SpySMAC) ⭐ 6 | 🐛 7 | 🌐 Python | 📅 2017-05-08
 
 ## Research
@@ -319,4 +319,4 @@ The handbook of SAT is an excellent and comprehensive resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
