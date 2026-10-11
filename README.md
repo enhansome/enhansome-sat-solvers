@@ -72,7 +72,7 @@ SAT has a nice tradition of making solver public and open source. As Yogi Berra 
 Three very important whose source code is informative to read are GRASP, Chaff and MiniSAT. These are important or (historical) state of the art solvers.
 
 * MiniSAT(2003) - Famous for being good, short (2k LOC), and introducing incremental SAT, MiniSAT is still widely used. Clear and worth reading espcially version 1.12! [code](https://github.com/niklasso/minisat) ⭐ 1,191 | 🐛 40 | 🌐 C++ | 📅 2024-04-28 |  [paper](http://minisat.se/downloads/MiniSat.pdf)
-* CryptoMiniSAT (2009) - Uses XOR primitive  - [code](https://github.com/msoos/cryptominisat) ⭐ 940 | 🐛 2 | 🌐 C++ | 📅 2026-10-09 | [paper](https://www.msoos.org/wordpress/wp-content/uploads/2011/03/Extending_SAT_2009.pdf)
+* CryptoMiniSAT (2009) - Uses XOR primitive  - [code](https://github.com/msoos/cryptominisat) ⭐ 940 | 🐛 2 | 🌐 C++ | 📅 2026-10-11 | [paper](https://www.msoos.org/wordpress/wp-content/uploads/2011/03/Extending_SAT_2009.pdf)
 * Kissat (2020) - -  [code](https://github.com/arminbiere/kissat) ⭐ 673 | 🐛 18 | 🌐 C | 📅 2025-10-16
 * CaDiCaL (2019) - [paper](https://cca.informatik.uni-freiburg.de/papers/Biere-SAT-Competition-2018-solvers.pdf) | [code](https://github.com/arminbiere/cadical) ⭐ 615 | 🐛 39 | 🌐 C++ | 📅 2026-10-10
 * Glucose (2009) -  Introduced different heuristics for SAT and UNSAT - [code](https://github.com/audemard/glucose) ⭐ 156 | 🐛 2 | 🌐 C++ | 📅 2026-10-05 | [paper](https://univ-artois.hal.science/hal-03299473/file/preprint.pdf)
@@ -86,11 +86,11 @@ Three very important whose source code is informative to read are GRASP, Chaff a
 
 ### Other solvers of interest:
 
-* [gopher](https://github.com/crillab/gophersat) ⭐ 388 | 🐛 6 | 🌐 Go | 📅 2025-07-07 - solver written in Go
+* [gopher](https://github.com/crillab/gophersat) ⭐ 387 | 🐛 6 | 🌐 Go | 📅 2025-07-07 - solver written in Go
 * [varisat](https://github.com/jix/varisat) ⭐ 291 | 🐛 25 | 🌐 Rust | 📅 2022-11-02 - solver written in Rust
 * [Satch](https://github.com/arminbiere/satch) ⭐ 126 | 🐛 1 | 🌐 C | 📅 2026-02-10 - expository solver by Armin Biere
 * MergeSAT (2021) - [code](https://github.com/conp-solutions/mergesat) ⭐ 42 | 🐛 6 | 🌐 C++ | 📅 2023-11-20
-* Slime (2021) - [code](https://github.com/maxtuno/slime-sat-solver/) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2021-07-12
+* Slime (2021) - [code](https://github.com/maxtuno/slime-sat-solver/)
 
 ### Core concepts
 
@@ -142,7 +142,7 @@ The #SAT is the problem of counting all the assignments which satisfy a Boolean 
 
 Solvers include:
 
-* [ApproxMCv6](https://github.com/meelgroup/approxmc) ⭐ 91 | 🐛 1 | 🌐 C++ | 📅 2026-10-09 (by creators of CryptoMiniSAT)
+* [ApproxMCv6](https://github.com/meelgroup/approxmc) ⭐ 91 | 🐛 1 | 🌐 C++ | 📅 2026-10-10 (by creators of CryptoMiniSAT)
 * [SharpSAT](https://github.com/marcthurley/sharpSAT) ⭐ 64 | 🐛 15 | 🌐 C++ | 📅 2022-08-28 (sota circa 2011)
 
 ### QBF solvers
@@ -160,8 +160,8 @@ Satisfiable Modulo Theory (SMT) solvers are generally built on top of SAT solver
 
 Solvers include:
 
-* [Z3](https://github.com/Z3Prover/z3) ⭐ 12,771 | 🐛 44 | 🌐 C++ | 📅 2026-10-10
-* [Bitwuzla](https://github.com/bitwuzla/bitwuzla) ⭐ 399 | 🐛 7 | 🌐 SMT | 📅 2026-10-09 (successor to Boolector)
+* [Z3](https://github.com/Z3Prover/z3) ⭐ 12,770 | 🐛 42 | 🌐 C++ | 📅 2026-10-11
+* [Bitwuzla](https://github.com/bitwuzla/bitwuzla) ⭐ 400 | 🐛 7 | 🌐 SMT | 📅 2026-10-09 (successor to Boolector)
 * [cvc5](https://cvc5.github.io/)
 
 ### CSP Solvers
@@ -182,8 +182,8 @@ CSP solvers include:
 
 Solvers include:
 
-* HiGHS [project](https://highs.dev/) [code](https://github.com/ERGO-Code/HiGHS) ⭐ 1,877 | 🐛 113 | 🌐 C++ | 📅 2026-10-09
-* CBC [code](https://github.com/coin-or/Cbc) ⭐ 1,019 | 🐛 172 | 🌐 C++ | 📅 2026-10-09
+* HiGHS [project](https://highs.dev/) [code](https://github.com/ERGO-Code/HiGHS) ⭐ 1,878 | 🐛 114 | 🌐 C++ | 📅 2026-10-09
+* CBC [code](https://github.com/coin-or/Cbc) ⭐ 1,019 | 🐛 171 | 🌐 C++ | 📅 2026-10-10
 * SCIP [project](https://scipopt.org/)
 
 ## Other Software and Libraries
@@ -319,4 +319,4 @@ The handbook of SAT is an excellent and comprehensive resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

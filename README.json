@@ -38,7 +38,7 @@
                 "id": 3709502,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T21:38:43Z",
+                "last_commit": "2026-10-11T07:53:33Z",
                 "open_issues": 2,
                 "owner": "msoos",
                 "repo": "cryptominisat",
@@ -189,7 +189,7 @@
                 "open_issues": 6,
                 "owner": "crillab",
                 "repo": "gophersat",
-                "stars": 388,
+                "stars": 387,
                 "topics": [
                   "artificial-intelligence",
                   "boolean-formulas",
@@ -263,34 +263,6 @@
                 "topics": [
                   "automated-reasoning",
                   "sat"
-                ]
-              },
-              "first_seen": "2026-08-28T15:26:33.832Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Slime (2021) - code",
-              "description": "maxtuno/slime-sat-solver",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Free World Class High Performance SAT Solver",
-                "homepage": "https://maxtuno.github.io/slime-sat-solver",
-                "id": 181300479,
-                "language": "JavaScript",
-                "license": "NOASSERTION",
-                "last_commit": "2021-07-12T14:24:00Z",
-                "open_issues": 0,
-                "owner": "maxtuno",
-                "repo": "slime-sat-solver",
-                "stars": 20,
-                "topics": [
-                  "cnf",
-                  "cnf-clauses",
-                  "cnf-encoding",
-                  "sat",
-                  "sat-solver",
-                  "satisfiability"
                 ]
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -369,7 +341,7 @@
                 "id": 157052469,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T21:56:00Z",
+                "last_commit": "2026-10-10T10:10:08Z",
                 "open_issues": 1,
                 "owner": "meelgroup",
                 "repo": "approxmc",
@@ -457,11 +429,11 @@
                 "id": 32944298,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T02:58:22Z",
-                "open_issues": 44,
+                "last_commit": "2026-10-11T05:06:29Z",
+                "open_issues": 42,
                 "owner": "Z3Prover",
                 "repo": "z3",
-                "stars": 12771,
+                "stars": 12770,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -482,7 +454,7 @@
                 "open_issues": 7,
                 "owner": "bitwuzla",
                 "repo": "bitwuzla",
-                "stars": 399,
+                "stars": 400,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -507,10 +479,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-09T22:56:41Z",
-                "open_issues": 113,
+                "open_issues": 114,
                 "owner": "ERGO-Code",
                 "repo": "HiGHS",
-                "stars": 1877,
+                "stars": 1878,
                 "topics": [
                   "high-performance",
                   "interior-point-method",
@@ -535,8 +507,8 @@
                 "id": 173509563,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T14:56:07Z",
-                "open_issues": 172,
+                "last_commit": "2026-10-10T14:53:38Z",
+                "open_issues": 171,
                 "owner": "coin-or",
                 "repo": "Cbc",
                 "stars": 1019,
@@ -649,7 +621,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T09:55:21.692Z",
+    "last_updated": "2026-10-11T10:04:46.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of resources for the Boolean Satisfiability Problem (SAT).",
