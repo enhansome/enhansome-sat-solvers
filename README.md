@@ -71,7 +71,7 @@ SAT has a nice tradition of making solver public and open source. As Yogi Berra 
 
 Three very important whose source code is informative to read are GRASP, Chaff and MiniSAT. These are important or (historical) state of the art solvers.
 
-* MiniSAT(2003) - Famous for being good, short (2k LOC), and introducing incremental SAT, MiniSAT is still widely used. Clear and worth reading espcially version 1.12! [code](https://github.com/niklasso/minisat) ⭐ 1,192 | 🐛 40 | 🌐 C++ | 📅 2024-04-28 |  [paper](http://minisat.se/downloads/MiniSat.pdf)
+* MiniSAT(2003) - Famous for being good, short (2k LOC), and introducing incremental SAT, MiniSAT is still widely used. Clear and worth reading espcially version 1.12! [code](https://github.com/niklasso/minisat) ⭐ 1,193 | 🐛 40 | 🌐 C++ | 📅 2024-04-28 |  [paper](http://minisat.se/downloads/MiniSat.pdf)
 * CryptoMiniSAT (2009) - Uses XOR primitive  - [code](https://github.com/msoos/cryptominisat) ⭐ 941 | 🐛 5 | 🌐 C++ | 📅 2026-10-12 | [paper](https://www.msoos.org/wordpress/wp-content/uploads/2011/03/Extending_SAT_2009.pdf)
 * Kissat (2020) - -  [code](https://github.com/arminbiere/kissat) ⭐ 676 | 🐛 19 | 🌐 C | 📅 2025-10-16
 * CaDiCaL (2019) - [paper](https://cca.informatik.uni-freiburg.de/papers/Biere-SAT-Competition-2018-solvers.pdf) | [code](https://github.com/arminbiere/cadical) ⭐ 618 | 🐛 48 | 🌐 C++ | 📅 2026-10-16
@@ -160,8 +160,8 @@ Satisfiable Modulo Theory (SMT) solvers are generally built on top of SAT solver
 
 Solvers include:
 
-* [Z3](https://github.com/Z3Prover/z3) ⭐ 12,786 | 🐛 43 | 🌐 C++ | 📅 2026-10-16
-* [Bitwuzla](https://github.com/bitwuzla/bitwuzla) ⭐ 402 | 🐛 7 | 🌐 SMT | 📅 2026-10-14 (successor to Boolector)
+* [Z3](https://github.com/Z3Prover/z3) ⭐ 12,786 | 🐛 39 | 🌐 C++ | 📅 2026-10-17
+* [Bitwuzla](https://github.com/bitwuzla/bitwuzla) ⭐ 402 | 🐛 7 | 🌐 SMT | 📅 2026-10-17 (successor to Boolector)
 * [cvc5](https://cvc5.github.io/)
 
 ### CSP Solvers
@@ -182,8 +182,8 @@ CSP solvers include:
 
 Solvers include:
 
-* HiGHS [project](https://highs.dev/) [code](https://github.com/ERGO-Code/HiGHS) ⭐ 1,887 | 🐛 104 | 🌐 C++ | 📅 2026-10-15
-* CBC [code](https://github.com/coin-or/Cbc) ⭐ 1,020 | 🐛 175 | 🌐 C++ | 📅 2026-10-16
+* HiGHS [project](https://highs.dev/) [code](https://github.com/ERGO-Code/HiGHS) ⭐ 1,889 | 🐛 102 | 🌐 C++ | 📅 2026-10-16
+* CBC [code](https://github.com/coin-or/Cbc) ⭐ 1,020 | 🐛 175 | 🌐 C++ | 📅 2026-10-17
 * SCIP [project](https://scipopt.org/)
 
 ## Other Software and Libraries
@@ -209,7 +209,7 @@ Many complex problems can be solved by compiling the problem into a SAT encoding
 
 ### Configuration of Solvers
 
-* SMAC Bayesian Hyperparameter optimisation [code](https://github.com/automl/SMAC3) ⭐ 1,258 | 🐛 116 | 🌐 Python | 📅 2026-10-14
+* SMAC Bayesian Hyperparameter optimisation [code](https://github.com/automl/SMAC3) ⭐ 1,259 | 🐛 115 | 🌐 Python | 📅 2026-10-16
 * SpySMAC [code](https://github.com/sfalkner/SpySMAC) ⭐ 6 | 🐛 7 | 🌐 Python | 📅 2017-05-08
 
 ## Research
@@ -319,4 +319,4 @@ The handbook of SAT is an excellent and comprehensive resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
