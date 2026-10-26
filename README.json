@@ -72,7 +72,7 @@
                 "open_issues": 20,
                 "owner": "arminbiere",
                 "repo": "kissat",
-                "stars": 678,
+                "stars": 679,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -89,11 +89,11 @@
                 "id": 65902420,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-23T14:55:08Z",
+                "last_commit": "2026-10-26T08:43:07Z",
                 "open_issues": 49,
                 "owner": "arminbiere",
                 "repo": "cadical",
-                "stars": 625,
+                "stars": 626,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -429,11 +429,11 @@
                 "id": 32944298,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-25T08:29:22Z",
-                "open_issues": 48,
+                "last_commit": "2026-10-26T06:32:06Z",
+                "open_issues": 49,
                 "owner": "Z3Prover",
                 "repo": "z3",
-                "stars": 12829,
+                "stars": 12838,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -454,7 +454,7 @@
                 "open_issues": 7,
                 "owner": "bitwuzla",
                 "repo": "bitwuzla",
-                "stars": 405,
+                "stars": 406,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -478,8 +478,8 @@
                 "id": 126994758,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-25T00:08:57Z",
-                "open_issues": 101,
+                "last_commit": "2026-10-25T11:46:24Z",
+                "open_issues": 102,
                 "owner": "ERGO-Code",
                 "repo": "HiGHS",
                 "stars": 1899,
@@ -569,8 +569,8 @@
                 "id": 65900469,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T13:22:33Z",
-                "open_issues": 122,
+                "last_commit": "2026-10-26T08:48:09Z",
+                "open_issues": 120,
                 "owner": "automl",
                 "repo": "SMAC3",
                 "stars": 1262,
@@ -621,7 +621,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T08:29:31.088Z",
+    "last_updated": "2026-10-26T09:01:31.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of resources for the Boolean Satisfiability Problem (SAT).",
