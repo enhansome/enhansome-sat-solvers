@@ -21,7 +21,7 @@
                 "open_issues": 40,
                 "owner": "niklasso",
                 "repo": "minisat",
-                "stars": 1195,
+                "stars": 1196,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -42,7 +42,7 @@
                 "open_issues": 4,
                 "owner": "msoos",
                 "repo": "cryptominisat",
-                "stars": 941,
+                "stars": 942,
                 "topics": [
                   "cdcl-algorithm",
                   "cnf",
@@ -72,7 +72,7 @@
                 "open_issues": 20,
                 "owner": "arminbiere",
                 "repo": "kissat",
-                "stars": 679,
+                "stars": 680,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -89,8 +89,8 @@
                 "id": 65902420,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-26T08:43:07Z",
-                "open_issues": 49,
+                "last_commit": "2026-10-27T09:01:29Z",
+                "open_issues": 50,
                 "owner": "arminbiere",
                 "repo": "cadical",
                 "stars": 626,
@@ -345,7 +345,7 @@
                 "open_issues": 1,
                 "owner": "meelgroup",
                 "repo": "approxmc",
-                "stars": 91,
+                "stars": 92,
                 "topics": [
                   "cnf-clauses",
                   "counting",
@@ -401,7 +401,7 @@
                 "open_issues": 6,
                 "owner": "ltentrup",
                 "repo": "caqe",
-                "stars": 44,
+                "stars": 45,
                 "topics": [
                   "qbf",
                   "qdimacs",
@@ -429,11 +429,11 @@
                 "id": 32944298,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-26T06:32:06Z",
-                "open_issues": 49,
+                "last_commit": "2026-10-27T08:47:57Z",
+                "open_issues": 46,
                 "owner": "Z3Prover",
                 "repo": "z3",
-                "stars": 12838,
+                "stars": 12846,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -450,11 +450,11 @@
                 "id": 296765908,
                 "language": "SMT",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-24T05:41:32Z",
+                "last_commit": "2026-10-26T21:01:40Z",
                 "open_issues": 7,
                 "owner": "bitwuzla",
                 "repo": "bitwuzla",
-                "stars": 406,
+                "stars": 407,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -478,8 +478,8 @@
                 "id": 126994758,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-25T11:46:24Z",
-                "open_issues": 102,
+                "last_commit": "2026-10-27T00:03:18Z",
+                "open_issues": 103,
                 "owner": "ERGO-Code",
                 "repo": "HiGHS",
                 "stars": 1899,
@@ -511,7 +511,7 @@
                 "open_issues": 176,
                 "owner": "coin-or",
                 "repo": "Cbc",
-                "stars": 1021,
+                "stars": 1022,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -569,11 +569,11 @@
                 "id": 65900469,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-26T08:48:09Z",
-                "open_issues": 120,
+                "last_commit": "2026-10-26T15:02:02Z",
+                "open_issues": 111,
                 "owner": "automl",
                 "repo": "SMAC3",
-                "stars": 1262,
+                "stars": 1263,
                 "topics": [
                   "algorithm-configuration",
                   "automated-machine-learning",
@@ -621,7 +621,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T09:01:31.906Z",
+    "last_updated": "2026-10-27T09:04:55.952Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of resources for the Boolean Satisfiability Problem (SAT).",
