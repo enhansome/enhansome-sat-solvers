@@ -72,7 +72,7 @@
                 "open_issues": 21,
                 "owner": "arminbiere",
                 "repo": "kissat",
-                "stars": 685,
+                "stars": 686,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -89,8 +89,8 @@
                 "id": 65902420,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-11T07:35:56Z",
-                "open_issues": 30,
+                "last_commit": "2026-11-12T09:57:03Z",
+                "open_issues": 29,
                 "owner": "arminbiere",
                 "repo": "cadical",
                 "stars": 631,
@@ -429,11 +429,11 @@
                 "id": 32944298,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-11T03:40:49Z",
-                "open_issues": 51,
+                "last_commit": "2026-11-12T09:09:57Z",
+                "open_issues": 56,
                 "owner": "Z3Prover",
                 "repo": "z3",
-                "stars": 12914,
+                "stars": 12924,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -454,7 +454,7 @@
                 "open_issues": 9,
                 "owner": "bitwuzla",
                 "repo": "bitwuzla",
-                "stars": 411,
+                "stars": 412,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -478,11 +478,11 @@
                 "id": 126994758,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-11T07:31:55Z",
-                "open_issues": 97,
+                "last_commit": "2026-11-11T22:26:40Z",
+                "open_issues": 113,
                 "owner": "ERGO-Code",
                 "repo": "HiGHS",
-                "stars": 1917,
+                "stars": 1919,
                 "topics": [
                   "high-performance",
                   "interior-point-method",
@@ -507,11 +507,11 @@
                 "id": 173509563,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T03:21:35Z",
-                "open_issues": 191,
+                "last_commit": "2026-11-12T02:26:09Z",
+                "open_issues": 192,
                 "owner": "coin-or",
                 "repo": "Cbc",
-                "stars": 1026,
+                "stars": 1025,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -569,8 +569,8 @@
                 "id": 65900469,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-11T10:51:58Z",
-                "open_issues": 108,
+                "last_commit": "2026-11-12T08:44:54Z",
+                "open_issues": 107,
                 "owner": "automl",
                 "repo": "SMAC3",
                 "stars": 1272,
@@ -621,7 +621,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T11:03:55.203Z",
+    "last_updated": "2026-11-12T11:23:01.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of resources for the Boolean Satisfiability Problem (SAT).",
