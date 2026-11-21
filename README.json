@@ -21,7 +21,7 @@
                 "open_issues": 40,
                 "owner": "niklasso",
                 "repo": "minisat",
-                "stars": 1203,
+                "stars": 1204,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -72,7 +72,7 @@
                 "open_issues": 21,
                 "owner": "arminbiere",
                 "repo": "kissat",
-                "stars": 688,
+                "stars": 689,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -89,11 +89,11 @@
                 "id": 65902420,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-20T09:51:03Z",
+                "last_commit": "2026-11-20T15:14:24Z",
                 "open_issues": 30,
                 "owner": "arminbiere",
                 "repo": "cadical",
-                "stars": 635,
+                "stars": 636,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -217,7 +217,7 @@
                 "open_issues": 25,
                 "owner": "jix",
                 "repo": "varisat",
-                "stars": 292,
+                "stars": 290,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -429,11 +429,11 @@
                 "id": 32944298,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T11:07:09Z",
-                "open_issues": 63,
+                "last_commit": "2026-11-21T11:12:22Z",
+                "open_issues": 54,
                 "owner": "Z3Prover",
                 "repo": "z3",
-                "stars": 12964,
+                "stars": 12970,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -450,11 +450,11 @@
                 "id": 296765908,
                 "language": "SMT",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T02:48:15Z",
+                "last_commit": "2026-11-21T02:11:28Z",
                 "open_issues": 10,
                 "owner": "bitwuzla",
                 "repo": "bitwuzla",
-                "stars": 416,
+                "stars": 417,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:26:33.832Z"
@@ -478,11 +478,11 @@
                 "id": 126994758,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-20T10:00:46Z",
+                "last_commit": "2026-11-21T10:39:37Z",
                 "open_issues": 159,
                 "owner": "ERGO-Code",
                 "repo": "HiGHS",
-                "stars": 1936,
+                "stars": 1935,
                 "topics": [
                   "high-performance",
                   "interior-point-method",
@@ -507,8 +507,8 @@
                 "id": 173509563,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T22:55:33Z",
-                "open_issues": 192,
+                "last_commit": "2026-11-21T04:54:39Z",
+                "open_issues": 191,
                 "owner": "coin-or",
                 "repo": "Cbc",
                 "stars": 1025,
@@ -621,7 +621,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T11:46:51.856Z",
+    "last_updated": "2026-11-21T11:12:50.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of resources for the Boolean Satisfiability Problem (SAT).",
